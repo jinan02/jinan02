@@ -29,9 +29,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Data engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+I am an AI & Data Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
-- :telescope: I’m Studying at ENSIAS RABAT.
+- :telescope: I’m Studying at Sherbrooke University - Canada.
 
 - :seedling: I am passionate about Data Science and Machine Learning.
 
